@@ -1,0 +1,6 @@
+	Eat_Total	SharkCount	Drop_Total	Target_Total	Temperature
+Eat_Total	1				
+SharkCount	0.667728017	1			
+Drop_Total	0.255831277	0.443517333	1		
+Target_Total	0.661581268	0.529605535	0.320847409	1	
+Temperature	0.093134224	-0.025854875	-0.183981563	0.033279418	1
